@@ -11,6 +11,10 @@
     <a href="https://docs.pageassist.xyz">
         Documentation
     </a>
+    <span> | </span>
+    <a href="README.zh.md">
+        中文说明
+    </a>
 
 </p>
 
