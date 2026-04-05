@@ -73,7 +73,7 @@ declare module "wxt/browser" {
       options?: GetMessageOptions,
     ): string;
     /**
-     * "Page Assist - A Web UI for Local AI Models"
+     * "Web Assist - A Web UI for Local AI Models"
      */
     getMessage(
       messageName: "extName",

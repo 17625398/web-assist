@@ -1,5 +1,5 @@
 {
-  "name": "pageassist",
+  "name": "web-assist",
   "displayName": "网智助手 - 本地 AI 模型的网页界面",
   "version": "1.0.9",
   "description": "使用本地运行的 AI 模型来辅助您的网页浏览。",

@@ -1,5 +1,5 @@
 <p align="center">
-    <h1 align="center">Page Assist</h1>
+    <h1 align="center">Web Assist</h1>
 </p>
 
 
@@ -15,11 +15,11 @@
 </p>
 
 
-Page Assist is an open-source browser extension that provides a sidebar and web UI for your local AI model. It allows you to interact with your model from any webpage.
+Web Assist is an open-source browser extension that provides a sidebar and web UI for your local AI model. It allows you to interact with your model from any webpage.
 
 ## Installation
 
-Page Assist supports Chromium-based browsers like Chrome, Brave, and Edge, as well as Firefox.
+Web Assist supports Chromium-based browsers like Chrome, Brave, and Edge, as well as Firefox.
 
 [![Chrome Web Store](https://pub-35424b4473484be483c0afa08c69e7da.r2.dev/UV4C4ybeBTsZt43U4xis.png)](https://chromewebstore.google.com/detail/page-assist/jfgfiigpkhlkbnfnbobbkinehhfdhndo)
 [![Firefox Add-on](https://pub-35424b4473484be483c0afa08c69e7da.r2.dev/get-the-addon.png)](https://addons.mozilla.org/en-US/firefox/addon/page-assist/)
@@ -29,7 +29,7 @@ Checkout the Demo (v1.0.0):
 
 <div align="center">
 
-[![Page Assist Demo](https://img.youtube.com/vi/8VTjlLGXA4s/0.jpg)](https://www.youtube.com/watch?v=8VTjlLGXA4s)
+[![Web Assist Demo](https://img.youtube.com/vi/8VTjlLGXA4s/0.jpg)](https://www.youtube.com/watch?v=8VTjlLGXA4s)
 
 </div>
 
@@ -54,8 +54,8 @@ want more features? Create an issue and let me know.
 1. Clone the repository
 
 ```bash
-git clone https://github.com/n4ze3m/page-assist.git
-cd page-assist
+git clone https://github.com/17625398/web-assist.git
+cd web-assist
 ```
 
 2. Install the dependencies
@@ -105,7 +105,7 @@ Note: You can change the keyboard shortcuts from the extension settings on the C
 
 ## Keyboard Shortcuts
 
-Page Assist supports various keyboard shortcuts to enhance your productivity:
+Web Assist supports various keyboard shortcuts to enhance your productivity:
 
 ### Extension Shortcuts
 
@@ -168,7 +168,7 @@ This will start a development server and watch for changes in the source files. 
 
 ## Privacy
 
-Page Assist does not collect any personal data. The only time the extension communicates with the server is when you are using the share feature, which can be disabled from the settings.
+Web Assist does not collect any personal data. The only time the extension communicates with the server is when you are using the share feature, which can be disabled from the settings.
 
 All the data is stored locally in the browser storage. You can view the source code and verify it yourself.
 
@@ -186,17 +186,17 @@ If you like the project and want to support it, you can buy me a coffee. It will
 
 or you can sponsor me on GitHub.
 
-## Blogs and Videos About Page Assist
+## Blogs and Videos About Web Assist
 
-This are some of the blogs and videos about Page Assist. If you have written a blog or made a video about Page Assist, feel free to create a PR and add it here.
+This are some of the blogs and videos about Web Assist. If you have written a blog or made a video about Web Assist, feel free to create a PR and add it here.
 
-- [OllamaをChromeAddonのPage Assistで簡単操作](https://note.com/lucas_san/n/nf00d01a02c3a) by [LucasChatGPT](https://twitter.com/LucasChatGPT)
+- [OllamaをChromeAddonのWeb Assistで簡単操作](https://note.com/lucas_san/n/nf00d01a02c3a) by [LucasChatGPT](https://twitter.com/LucasChatGPT)
 
 - [This Chrome Extension Surprised Me](https://www.youtube.com/watch?v=IvLTlDy9G8c) by [Matt Williams](https://www.youtube.com/@technovangelist)
 
 - [Ollama With 1 Click](https://www.youtube.com/watch?v=61uN5jtj2wo) by [Yaron Been From EcomXFactor](https://www.youtube.com/@ecomxfactor-YaronBeen)
 
-- [Page Assist 介绍合集](https://mp.weixin.qq.com/mp/appmsgalbum?__biz=Mzk2NDUxNDQ3Nw==&action=getalbum&album_id=3845692786608553984#wechat_redirect) by 百工智用公众号
+- [Web Assist 介绍合集](https://mp.weixin.qq.com/mp/appmsgalbum?__biz=Mzk2NDUxNDQ3Nw==&action=getalbum&album_id=3845692786608553984#wechat_redirect) by 百工智用公众号
 
 
 - [Eine KI auf dem eigenen Rechner laufen lassen, 10 Minuten Installation](https://www.johannesholstein.de/gsCMS/index.php?id=sonstige-video-tutorials) by [Johannes Holstein](https://www.johannesholstein.de)
